@@ -1,0 +1,509 @@
+2018-02-22 00:26:37 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ================ Starting verifyLoginWithInvalidCredentials Test ==================
+2018-02-22 00:27:46 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ================ Starting verifyLoginWithInvalidCredentials Test ==================
+2018-02-22 00:27:46 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (e5f0517f-b870-48a5-aa0b-283b1d66b8c4)] -> link text: http://www.phptravels.net]
+2018-02-22 00:27:47 INFO  TC001_VerifyLoginWithInvalidCredentials:34 - ================= Finished verifyLoginWithInvalidCredentials Test ===================
+2018-02-22 00:37:48 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ================ Starting verifyLoginWithInvalidCredentials Test ==================
+2018-02-22 00:40:20 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ================ Starting verifyLoginWithInvalidCredentials Test ==================
+2018-02-22 00:43:43 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ================ Starting verifyLoginWithInvalidCredentials Test ==================
+2018-02-22 00:43:43 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[ChromeDriver: chrome on XP (a5227139d38f59521737b5e39d4b252b)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-02-22 00:43:43 INFO  TC001_VerifyLoginWithInvalidCredentials:34 - ================= Finished verifyLoginWithInvalidCredentials Test ===================
+2018-03-05 10:19:14 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-05 10:19:14 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[ChromeDriver: chrome on XP (0e0a9865e6e17b11acb6f5c2760db571)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-05 10:21:05 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-05 10:21:05 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (49c29340-5c38-425e-9440-68a504a2a79e)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-05 19:59:59 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-05 20:00:00 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (8190bc31-f703-4100-90ee-72e3bb9c1a45)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-05 20:03:53 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-05 20:03:54 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (da6acde9-f2ea-4310-94ad-d4083a552987)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-05 20:07:45 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-05 20:07:45 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (771a4393-1a72-4df1-b1a1-dc3940c2f388)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-05 20:10:22 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-05 20:10:22 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (6cb97d1a-78a0-445f-b312-7fc40fc05575)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-05 20:12:27 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-05 20:12:27 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (4efc5a5e-ba21-46c1-bc49-6d66eef76362)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 10:09:04 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 10:09:04 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (8b51fb6f-0705-480b-ae84-ebcbeac0075c)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 10:11:38 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 10:11:38 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (95c99c71-ae20-4d17-95cf-0ebd50caf25d)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 10:14:43 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 10:14:43 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (9b8a4bb2-7129-40ba-be96-bc35db181c5f)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 10:16:17 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 10:16:17 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (96805346-76b5-43b3-acb7-7e723429ea66)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 10:17:47 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 10:17:47 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (c08542b9-afe4-4515-8d6d-4d3fc1b3965d)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 10:20:53 INFO  TestBase:31 - Launching browserfirefox
+2018-03-06 10:20:59 INFO  TestBase:43 - Navigating to URL : https://phptravels.com/demo/
+2018-03-06 10:21:02 INFO  TC001_VerifyNavigatedToSignUpPage:29 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-06 10:43:24 INFO  TestBase:31 - Launching browserfirefox
+2018-03-06 10:43:30 INFO  TestBase:43 - Navigating to URL : https://phptravels.com/demo/
+2018-03-06 10:43:34 INFO  TC001_VerifyNavigatedToSignUpPage:26 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 10:43:34 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (3ffb2bb3-4e2d-4654-a81d-5743babf39c5)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 10:43:37 INFO  HomePage:28 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (3ffb2bb3-4e2d-4654-a81d-5743babf39c5)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 10:43:37 INFO  TC001_VerifyNavigatedToSignUpPage:29 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-06 10:49:46 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 10:49:46 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (02bf9ef7-6f26-466b-a8ef-47202d1cb626)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 10:49:50 INFO  HomePage:28 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (02bf9ef7-6f26-466b-a8ef-47202d1cb626)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 10:49:50 INFO  TestBase:31 - Launching browserfirefox
+2018-03-06 10:49:56 INFO  TestBase:43 - Navigating to URL : https://phptravels.com/demo/
+2018-03-06 10:49:59 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-06 11:06:17 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 11:06:17 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (754a3fb6-e6d1-41ba-a780-c83c7c09c467)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 11:06:19 INFO  HomePage:28 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (754a3fb6-e6d1-41ba-a780-c83c7c09c467)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 11:06:20 INFO  TestBase:31 - Launching browserfirefox
+2018-03-06 11:06:26 INFO  TestBase:43 - Navigating to URL : https://phptravels.com/demo/
+2018-03-06 11:08:37 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 11:08:37 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-06 11:11:05 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 11:19:31 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 11:19:32 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (1af06af6-7905-4321-acb3-3910f2821718)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 11:19:37 INFO  HomePage:28 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (1af06af6-7905-4321-acb3-3910f2821718)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 11:19:37 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-06 12:08:30 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 12:08:31 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (6fa7aa29-33d2-4db8-a4d3-aabdb87996cc)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 12:08:34 INFO  HomePage:28 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (6fa7aa29-33d2-4db8-a4d3-aabdb87996cc)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 12:59:19 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 12:59:20 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (39bb0f8f-1421-45b6-9863-c40e6c8b1db2)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 12:59:24 INFO  HomePage:31 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (39bb0f8f-1421-45b6-9863-c40e6c8b1db2)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 12:59:34 INFO  HomePage:35 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (39bb0f8f-1421-45b6-9863-c40e6c8b1db2)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-06 12:59:34 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-06 13:03:36 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 13:03:36 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (eb77f7a3-226b-47f0-ad09-1337c627f435)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 13:03:40 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (eb77f7a3-226b-47f0-ad09-1337c627f435)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 13:06:06 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 13:06:07 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (deab1961-45c2-4b51-bc5c-c95f4acdee14)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 13:06:10 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (deab1961-45c2-4b51-bc5c-c95f4acdee14)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 13:06:28 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (deab1961-45c2-4b51-bc5c-c95f4acdee14)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-06 13:06:28 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-06 13:07:08 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 13:07:08 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (fdf9f5e8-9398-4d20-b867-eb6afd500180)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 13:07:11 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (fdf9f5e8-9398-4d20-b867-eb6afd500180)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 13:07:21 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (fdf9f5e8-9398-4d20-b867-eb6afd500180)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-06 13:07:21 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-06 13:07:21 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-06 13:08:58 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 13:08:59 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (7223bea0-e226-48fd-8daa-192db596a6ff)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 13:09:02 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (7223bea0-e226-48fd-8daa-192db596a6ff)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 13:09:08 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (7223bea0-e226-48fd-8daa-192db596a6ff)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-06 13:09:08 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-06 13:09:08 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-06 13:11:04 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-06 13:14:34 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-06 13:14:34 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (71ee5ac0-97c2-461f-a904-9af06132e897)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-06 13:14:38 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (71ee5ac0-97c2-461f-a904-9af06132e897)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-06 13:14:43 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (71ee5ac0-97c2-461f-a904-9af06132e897)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-06 13:14:43 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-06 13:14:43 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-07 09:23:16 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 09:23:16 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (fefb1087-1e75-4015-abd4-f308aea9a21e)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 09:23:21 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (fefb1087-1e75-4015-abd4-f308aea9a21e)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 09:23:26 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (fefb1087-1e75-4015-abd4-f308aea9a21e)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 09:23:26 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 09:23:26 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-07 09:27:28 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 09:27:29 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (949e78ac-ab7e-456d-8eed-2b991e849f34)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 09:27:32 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (949e78ac-ab7e-456d-8eed-2b991e849f34)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 09:27:37 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (949e78ac-ab7e-456d-8eed-2b991e849f34)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 09:27:37 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 09:27:37 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-07 09:28:49 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 09:28:49 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (5b410864-efa6-48e8-bcb8-90fff4010f2d)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 09:28:52 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (5b410864-efa6-48e8-bcb8-90fff4010f2d)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 09:28:58 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (5b410864-efa6-48e8-bcb8-90fff4010f2d)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 09:28:58 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 09:28:58 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-07 09:30:14 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 09:30:15 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (2cb8dc52-201e-4ae6-9c63-9089d4af621c)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 09:30:19 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (2cb8dc52-201e-4ae6-9c63-9089d4af621c)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 09:30:25 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (2cb8dc52-201e-4ae6-9c63-9089d4af621c)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 09:30:25 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 09:30:25 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-07 09:38:17 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 09:38:17 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (87449793-6301-4b2e-894a-6c337c9af08a)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 09:38:20 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (87449793-6301-4b2e-894a-6c337c9af08a)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 09:38:25 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (87449793-6301-4b2e-894a-6c337c9af08a)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 09:38:25 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 09:38:25 INFO  TC001_VerifyNavigatedToSignUpPage:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-07 09:42:54 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 09:42:54 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (673c3986-ea20-4e4a-af8a-d9f1be633a83)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 09:42:58 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (673c3986-ea20-4e4a-af8a-d9f1be633a83)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 09:43:03 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (673c3986-ea20-4e4a-af8a-d9f1be633a83)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 09:43:03 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 09:44:28 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 09:44:28 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (c3f1d632-5eb1-4477-8653-dafecc565d84)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 09:44:32 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (c3f1d632-5eb1-4477-8653-dafecc565d84)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 09:44:37 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (c3f1d632-5eb1-4477-8653-dafecc565d84)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 09:44:37 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 09:46:13 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 09:46:14 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (9ef45ccd-713d-4bbd-aa4c-4f4ab2cbeae8)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 09:46:17 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (9ef45ccd-713d-4bbd-aa4c-4f4ab2cbeae8)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 09:46:22 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (9ef45ccd-713d-4bbd-aa4c-4f4ab2cbeae8)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 09:46:22 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 09:49:04 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 09:49:05 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (0acb2b50-c61d-4abd-af69-0abecf0d3ec1)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 09:49:07 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (0acb2b50-c61d-4abd-af69-0abecf0d3ec1)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 09:49:14 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (0acb2b50-c61d-4abd-af69-0abecf0d3ec1)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 09:49:14 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 09:50:44 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 09:50:44 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (d3720bdf-8d59-44d2-ae30-ec55d5943b4d)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 09:50:48 INFO  HomePage:33 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (d3720bdf-8d59-44d2-ae30-ec55d5943b4d)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 09:50:58 INFO  HomePage:37 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (d3720bdf-8d59-44d2-ae30-ec55d5943b4d)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 09:50:58 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 10:24:51 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 10:24:52 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (f90e4b56-aace-46f5-bf31-3555b4dab157)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 10:24:55 INFO  HomePage:37 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (f90e4b56-aace-46f5-bf31-3555b4dab157)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 10:25:00 INFO  HomePage:41 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (f90e4b56-aace-46f5-bf31-3555b4dab157)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 10:25:00 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 10:36:09 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 10:36:09 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (cbfa9b39-ab41-472e-af24-e9b23d2a7530)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 10:36:13 INFO  HomePage:37 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (cbfa9b39-ab41-472e-af24-e9b23d2a7530)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 10:36:18 INFO  HomePage:41 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (cbfa9b39-ab41-472e-af24-e9b23d2a7530)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 10:36:18 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 10:41:37 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 10:41:37 INFO  DemoPage:26 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (5b224ee6-d4d5-42fb-af90-fb13fa4083ab)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 10:41:40 INFO  HomePage:37 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (5b224ee6-d4d5-42fb-af90-fb13fa4083ab)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 10:41:46 INFO  HomePage:41 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (5b224ee6-d4d5-42fb-af90-fb13fa4083ab)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 10:41:46 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 10:57:28 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 10:57:29 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (2f9cef3c-e9af-4b3d-a03e-086dd1326ff1)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 10:57:31 INFO  HomePage:39 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (2f9cef3c-e9af-4b3d-a03e-086dd1326ff1)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 10:57:41 INFO  HomePage:43 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (2f9cef3c-e9af-4b3d-a03e-086dd1326ff1)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 10:57:41 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 11:11:16 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 11:11:17 INFO  DemoPage:27 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (e689bfb4-6a41-4f64-87a8-1e99971858be)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 11:11:20 INFO  HomePage:37 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (e689bfb4-6a41-4f64-87a8-1e99971858be)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 11:11:26 INFO  HomePage:41 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (e689bfb4-6a41-4f64-87a8-1e99971858be)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 11:11:26 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 11:12:22 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 11:12:22 INFO  RegistrationPage:41 - Current URL : https://phptravels.com/demo/
+2018-03-07 11:42:32 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 11:42:32 INFO  DemoPage:27 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (63a12f5b-f708-4ce9-9a38-e7d2b6a5d706)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 11:42:36 INFO  HomePage:37 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (63a12f5b-f708-4ce9-9a38-e7d2b6a5d706)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 11:42:43 INFO  HomePage:41 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (63a12f5b-f708-4ce9-9a38-e7d2b6a5d706)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 11:42:43 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 12:28:09 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 12:28:09 INFO  RegistrationPage:43 - Current URL : https://phptravels.com/demo/
+2018-03-07 12:29:20 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 12:29:20 INFO  RegistrationPage:43 - Current URL : https://phptravels.com/demo/
+2018-03-07 12:32:37 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 12:32:37 INFO  DemoPage:29 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (398a6a0a-c2fe-49d5-a815-77ab0eedffcf)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 12:32:41 INFO  HomePage:39 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (398a6a0a-c2fe-49d5-a815-77ab0eedffcf)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 12:32:48 INFO  HomePage:43 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (398a6a0a-c2fe-49d5-a815-77ab0eedffcf)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 12:32:48 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 12:33:40 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 12:35:50 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 13:59:32 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 13:59:32 INFO  TC002_VerifyRegistration:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-07 14:00:33 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 14:00:34 INFO  DemoPage:29 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (42523ad9-8643-4714-82ba-2be58203ab8c)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 14:00:54 INFO  HomePage:39 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (42523ad9-8643-4714-82ba-2be58203ab8c)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 14:02:00 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 14:02:00 INFO  TC002_VerifyRegistration:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-07 14:39:28 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 14:39:28 INFO  TC002_VerifyRegistration:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-07 14:40:08 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-07 14:40:08 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (430e54a9-4473-4941-80c8-465ba4542b13)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-07 14:40:12 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (430e54a9-4473-4941-80c8-465ba4542b13)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-07 14:40:18 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (430e54a9-4473-4941-80c8-465ba4542b13)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-07 14:40:18 INFO  TC001_VerifyNavigatedToSignUpPage:33 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-07 14:40:56 INFO  TestBase:33 - Launching browserfirefox
+2018-03-07 14:41:04 INFO  TestBase:45 - Navigating to URL : https://phptravels.com/demo/
+2018-03-07 14:41:07 INFO  TC002_VerifyRegistration:30 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-08 01:31:10 INFO  TC001_VerifyNavigatedToSignUpPage:27 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-08 01:31:10 INFO  TestBase:33 - Launching browserfirefox
+2018-03-08 01:31:20 INFO  TestBase:45 - Navigating to URL : https://phptravels.com/demo/
+2018-03-10 12:25:12 INFO  TC001_VerifyNavigatedToSignUpPage:28 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-10 12:25:12 INFO  TestBase:33 - Launching browserfirefox
+2018-03-10 12:25:19 INFO  TestBase:45 - Navigating to URL : https://phptravels.com/demo/
+2018-03-10 12:25:22 INFO  TestBase:33 - Launching browserfirefox
+2018-03-10 12:25:29 INFO  TestBase:45 - Navigating to URL : https://phptravels.com/demo/
+2018-03-10 12:25:32 INFO  TC002_VerifyRegistration:33 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-10 12:29:17 INFO  TC001_VerifyNavigatedToSignUpPage:28 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-10 12:30:21 INFO  TestBase:33 - Launching browserfirefox
+2018-03-10 12:30:27 INFO  TestBase:45 - Navigating to URL : https://phptravels.com/demo/
+2018-03-10 12:30:30 INFO  TestBase:33 - Launching browserfirefox
+2018-03-10 12:30:36 INFO  TestBase:45 - Navigating to URL : https://phptravels.com/demo/
+2018-03-10 12:30:39 INFO  TC002_VerifyRegistration:33 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 17:35:35 INFO  TC001_VerifyNavigatedToSignUpPage:28 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 17:35:35 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (aa704080-8c78-4f1b-90c3-6cf93b036e7e)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-11 17:35:42 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (aa704080-8c78-4f1b-90c3-6cf93b036e7e)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-11 17:35:50 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (aa704080-8c78-4f1b-90c3-6cf93b036e7e)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-11 17:35:50 INFO  TC001_VerifyNavigatedToSignUpPage:34 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-11 17:35:50 INFO  TestBase:33 - Launching browserfirefox
+2018-03-11 17:35:57 INFO  TestBase:45 - Navigating to URL : https://phptravels.com/demo/
+2018-03-11 17:36:00 INFO  TestBase:33 - Launching browserfirefox
+2018-03-11 17:36:09 INFO  TestBase:45 - Navigating to URL : https://phptravels.com/demo/
+2018-03-11 17:36:12 INFO  TC002_VerifyRegistration:33 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 20:22:51 INFO  TC001_VerifyNavigatedToSignUpPage:28 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 20:22:52 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (b3e0fc4f-a065-4023-ad8d-ee55419627e6)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-11 20:22:56 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (b3e0fc4f-a065-4023-ad8d-ee55419627e6)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-11 20:23:00 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (b3e0fc4f-a065-4023-ad8d-ee55419627e6)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-11 20:23:00 INFO  TC001_VerifyNavigatedToSignUpPage:34 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-11 20:24:16 INFO  TC001_VerifyNavigatedToSignUpPage:28 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 20:24:16 INFO  TestBase:33 - Launching browserfirefox
+2018-03-11 20:24:25 INFO  TestBase:45 - Navigating to URL : https://phptravels.com/demo/
+2018-03-11 20:24:28 INFO  TestBase:33 - Launching browserfirefox
+2018-03-11 20:26:22 INFO  TC001_VerifyNavigatedToSignUpPage:28 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 20:26:22 INFO  TC002_VerifyRegistration:33 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 20:29:53 INFO  TC001_VerifyNavigatedToSignUpPage:28 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 20:29:53 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (842c1594-5d14-43fc-b4e1-3731486ac189)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-11 20:29:56 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (842c1594-5d14-43fc-b4e1-3731486ac189)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-11 20:30:03 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (842c1594-5d14-43fc-b4e1-3731486ac189)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-11 20:30:03 INFO  TC001_VerifyNavigatedToSignUpPage:34 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-11 20:30:03 INFO  TC002_VerifyRegistration:33 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 20:33:12 INFO  TC001_VerifyNavigatedToSignUpPage:28 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 20:33:12 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (db6842cb-f835-47ab-99dd-9e6f55b473e7)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-11 20:33:16 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (db6842cb-f835-47ab-99dd-9e6f55b473e7)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-11 20:34:03 INFO  TC002_VerifyRegistration:33 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 20:50:09 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 20:50:09 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 20:52:47 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 20:52:48 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (838c917f-2f34-4b3d-a222-f83ec1dd2c62)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-11 20:52:51 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (838c917f-2f34-4b3d-a222-f83ec1dd2c62)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-11 20:52:58 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (838c917f-2f34-4b3d-a222-f83ec1dd2c62)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-11 20:52:58 INFO  NavigateToSignUp:26 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-11 21:09:01 INFO  NavigateToSignUp:33 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 21:09:02 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (e1c604e6-b81f-4fb0-841e-d0b36b209a09)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-11 21:09:06 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (e1c604e6-b81f-4fb0-841e-d0b36b209a09)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-11 21:09:13 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (e1c604e6-b81f-4fb0-841e-d0b36b209a09)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-11 21:09:13 INFO  NavigateToSignUp:39 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-11 21:09:13 INFO  NavigateToSignUp:45 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 21:09:14 INFO  RegistrationPage:44 - inputted First Name text field with R and object is [[FirefoxDriver: firefox on XP (e1c604e6-b81f-4fb0-841e-d0b36b209a09)] -> xpath: //input[@name='firstname']]
+2018-03-11 21:09:14 INFO  RegistrationPage:47 - inputted Last Name text field with Talwar and object is [[FirefoxDriver: firefox on XP (e1c604e6-b81f-4fb0-841e-d0b36b209a09)] -> name: lastname]
+2018-03-11 21:09:15 INFO  RegistrationPage:50 - inputted mobile number text field with 9649823480 and object is [[FirefoxDriver: firefox on XP (e1c604e6-b81f-4fb0-841e-d0b36b209a09)] -> name: phone]
+2018-03-11 21:09:15 INFO  RegistrationPage:53 - inputted email text field with RTalwar@gmail.com and object is [[FirefoxDriver: firefox on XP (e1c604e6-b81f-4fb0-841e-d0b36b209a09)] -> name: email]
+2018-03-11 21:09:15 INFO  RegistrationPage:56 - inputted First Name text field with $#racks123 and object is [[FirefoxDriver: firefox on XP (e1c604e6-b81f-4fb0-841e-d0b36b209a09)] -> name: password]
+2018-03-11 21:09:15 INFO  RegistrationPage:59 - inputted First Name text field with $#racks123 and object is [[FirefoxDriver: firefox on XP (e1c604e6-b81f-4fb0-841e-d0b36b209a09)] -> name: confirmpassword]
+2018-03-11 21:09:15 INFO  NavigateToSignUp:48 - ================= Finished verifyRegistrationCompleted Test ===================
+2018-03-11 21:31:23 INFO  NavigateToSignUp:31 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 21:31:23 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (0148ea4f-cad9-48f4-80a1-875adc89f94d)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-11 21:31:27 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (0148ea4f-cad9-48f4-80a1-875adc89f94d)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-11 21:31:32 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (0148ea4f-cad9-48f4-80a1-875adc89f94d)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-11 21:31:32 INFO  NavigateToSignUp:37 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-11 21:31:32 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 21:31:33 INFO  RegistrationPage:44 - inputted First Name text field with R and object is [[FirefoxDriver: firefox on XP (0148ea4f-cad9-48f4-80a1-875adc89f94d)] -> xpath: //input[@name='firstname']]
+2018-03-11 21:31:33 INFO  RegistrationPage:47 - inputted Last Name text field with Talwar and object is [[FirefoxDriver: firefox on XP (0148ea4f-cad9-48f4-80a1-875adc89f94d)] -> name: lastname]
+2018-03-11 21:31:34 INFO  RegistrationPage:50 - inputted mobile number text field with 9649823480 and object is [[FirefoxDriver: firefox on XP (0148ea4f-cad9-48f4-80a1-875adc89f94d)] -> name: phone]
+2018-03-11 21:31:34 INFO  RegistrationPage:53 - inputted email text field with RTalwar@gmail.com and object is [[FirefoxDriver: firefox on XP (0148ea4f-cad9-48f4-80a1-875adc89f94d)] -> name: email]
+2018-03-11 21:31:34 INFO  RegistrationPage:56 - inputted First Name text field with $#racks123 and object is [[FirefoxDriver: firefox on XP (0148ea4f-cad9-48f4-80a1-875adc89f94d)] -> name: password]
+2018-03-11 21:31:34 INFO  RegistrationPage:59 - inputted First Name text field with $#racks123 and object is [[FirefoxDriver: firefox on XP (0148ea4f-cad9-48f4-80a1-875adc89f94d)] -> name: confirmpassword]
+2018-03-11 21:31:34 INFO  Registration:27 - ================= Finished verifyRegistrationCompleted Test ===================
+2018-03-11 21:48:07 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 21:48:07 INFO  Registration:22 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 21:49:01 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 21:49:02 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (065a7612-9947-4542-a9c7-732dbd8f55d3)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-11 21:49:06 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (065a7612-9947-4542-a9c7-732dbd8f55d3)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-11 21:49:11 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (065a7612-9947-4542-a9c7-732dbd8f55d3)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-11 21:49:11 INFO  NavigateToSignUp:26 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-11 21:49:11 INFO  Registration:22 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 21:49:12 INFO  RegistrationPage:41 - inputted First Name text field with R and object is [[FirefoxDriver: firefox on XP (065a7612-9947-4542-a9c7-732dbd8f55d3)] -> xpath: //input[@name='firstname']]
+2018-03-11 21:49:13 INFO  RegistrationPage:44 - inputted Last Name text field with Talwar and object is [[FirefoxDriver: firefox on XP (065a7612-9947-4542-a9c7-732dbd8f55d3)] -> name: lastname]
+2018-03-11 21:49:13 INFO  RegistrationPage:47 - inputted mobile number text field with 9649823480 and object is [[FirefoxDriver: firefox on XP (065a7612-9947-4542-a9c7-732dbd8f55d3)] -> name: phone]
+2018-03-11 21:49:13 INFO  RegistrationPage:50 - inputted email text field with RTalwar@gmail.com and object is [[FirefoxDriver: firefox on XP (065a7612-9947-4542-a9c7-732dbd8f55d3)] -> name: email]
+2018-03-11 21:49:13 INFO  RegistrationPage:53 - inputted First Name text field with $#racks123 and object is [[FirefoxDriver: firefox on XP (065a7612-9947-4542-a9c7-732dbd8f55d3)] -> name: password]
+2018-03-11 21:49:13 INFO  RegistrationPage:56 - inputted First Name text field with $#racks123 and object is [[FirefoxDriver: firefox on XP (065a7612-9947-4542-a9c7-732dbd8f55d3)] -> name: confirmpassword]
+2018-03-11 21:49:13 INFO  Registration:25 - ================= Finished verifyRegistrationCompleted Test ===================
+2018-03-11 21:53:04 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 21:53:04 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 21:54:49 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 21:54:49 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (5ad32e58-cc6c-4ef2-bb6b-7a28623fafa7)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-11 21:54:53 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (5ad32e58-cc6c-4ef2-bb6b-7a28623fafa7)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-11 21:54:57 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (5ad32e58-cc6c-4ef2-bb6b-7a28623fafa7)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-11 21:54:57 INFO  NavigateToSignUp:26 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-11 21:54:57 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 21:55:57 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-11 21:55:58 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (1abf3745-2818-45f1-958e-9cc15df408de)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-11 21:56:01 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (1abf3745-2818-45f1-958e-9cc15df408de)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-11 21:56:07 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (1abf3745-2818-45f1-958e-9cc15df408de)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-11 21:56:07 INFO  NavigateToSignUp:26 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-11 21:56:07 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-11 21:56:08 INFO  RegistrationPage:41 - inputted First Name text field with R and object is [[FirefoxDriver: firefox on XP (1abf3745-2818-45f1-958e-9cc15df408de)] -> xpath: //input[@name='firstname']]
+2018-03-11 21:56:08 INFO  RegistrationPage:44 - inputted Last Name text field with Talwar and object is [[FirefoxDriver: firefox on XP (1abf3745-2818-45f1-958e-9cc15df408de)] -> name: lastname]
+2018-03-11 21:56:09 INFO  RegistrationPage:47 - inputted mobile number text field with 9649823480 and object is [[FirefoxDriver: firefox on XP (1abf3745-2818-45f1-958e-9cc15df408de)] -> name: phone]
+2018-03-11 21:56:09 INFO  RegistrationPage:50 - inputted email text field with RTalwar@gmail.com and object is [[FirefoxDriver: firefox on XP (1abf3745-2818-45f1-958e-9cc15df408de)] -> name: email]
+2018-03-11 21:56:09 INFO  RegistrationPage:53 - inputted First Name text field with $#racks123 and object is [[FirefoxDriver: firefox on XP (1abf3745-2818-45f1-958e-9cc15df408de)] -> name: password]
+2018-03-11 21:56:09 INFO  RegistrationPage:56 - inputted First Name text field with $#racks123 and object is [[FirefoxDriver: firefox on XP (1abf3745-2818-45f1-958e-9cc15df408de)] -> name: confirmpassword]
+2018-03-11 21:56:09 INFO  Registration:27 - ================= Finished verifyRegistrationCompleted Test ===================
+2018-03-12 18:38:09 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-12 18:38:48 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-12 18:40:04 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-12 18:40:19 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (4a6b22c5-4796-4861-bb75-915cb4fa4755)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-12 18:40:29 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (4a6b22c5-4796-4861-bb75-915cb4fa4755)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-12 18:40:29 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (4a6b22c5-4796-4861-bb75-915cb4fa4755)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-12 18:40:37 INFO  NavigateToSignUp:26 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-12 18:40:45 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-12 18:41:12 INFO  RegistrationPage:41 - inputted First Name text field with R and object is [[FirefoxDriver: firefox on XP (4a6b22c5-4796-4861-bb75-915cb4fa4755)] -> xpath: //input[@name='firstname']]
+2018-03-12 18:41:18 INFO  RegistrationPage:44 - inputted Last Name text field with T and object is [[FirefoxDriver: firefox on XP (4a6b22c5-4796-4861-bb75-915cb4fa4755)] -> name: lastname]
+2018-03-12 18:41:19 INFO  RegistrationPage:47 - inputted mobile number text field with 1234567891 and object is [[FirefoxDriver: firefox on XP (4a6b22c5-4796-4861-bb75-915cb4fa4755)] -> name: phone]
+2018-03-12 18:41:19 INFO  RegistrationPage:50 - inputted email text field with rt.12@gmail.com and object is [[FirefoxDriver: firefox on XP (4a6b22c5-4796-4861-bb75-915cb4fa4755)] -> name: email]
+2018-03-12 18:41:19 INFO  RegistrationPage:53 - inputted First Name text field with dummypwd and object is [[FirefoxDriver: firefox on XP (4a6b22c5-4796-4861-bb75-915cb4fa4755)] -> name: password]
+2018-03-12 18:41:19 INFO  RegistrationPage:56 - inputted First Name text field with dummypwd and object is [[FirefoxDriver: firefox on XP (4a6b22c5-4796-4861-bb75-915cb4fa4755)] -> name: confirmpassword]
+2018-03-12 18:41:19 INFO  Registration:27 - ================= Finished verifyRegistrationCompleted Test ===================
+2018-03-12 19:07:03 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-12 19:07:03 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (509206ad-c20b-444f-8a90-773b0ee57ad8)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-12 19:07:06 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (509206ad-c20b-444f-8a90-773b0ee57ad8)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-12 19:07:15 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (509206ad-c20b-444f-8a90-773b0ee57ad8)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-12 19:07:15 INFO  NavigateToSignUp:26 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-12 19:07:15 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-12 19:07:16 INFO  RegistrationPage:41 - inputted First Name text field with R and object is [[FirefoxDriver: firefox on XP (509206ad-c20b-444f-8a90-773b0ee57ad8)] -> xpath: //input[@name='firstname']]
+2018-03-12 19:07:17 INFO  RegistrationPage:44 - inputted Last Name text field with T and object is [[FirefoxDriver: firefox on XP (509206ad-c20b-444f-8a90-773b0ee57ad8)] -> name: lastname]
+2018-03-12 19:07:17 INFO  RegistrationPage:47 - inputted mobile number text field with 1234567891 and object is [[FirefoxDriver: firefox on XP (509206ad-c20b-444f-8a90-773b0ee57ad8)] -> name: phone]
+2018-03-12 19:07:17 INFO  RegistrationPage:50 - inputted email text field with rt.12@gmail.com and object is [[FirefoxDriver: firefox on XP (509206ad-c20b-444f-8a90-773b0ee57ad8)] -> name: email]
+2018-03-12 19:07:18 INFO  RegistrationPage:53 - inputted First Name text field with dummypwd and object is [[FirefoxDriver: firefox on XP (509206ad-c20b-444f-8a90-773b0ee57ad8)] -> name: password]
+2018-03-12 19:07:18 INFO  RegistrationPage:56 - inputted First Name text field with dummypwd and object is [[FirefoxDriver: firefox on XP (509206ad-c20b-444f-8a90-773b0ee57ad8)] -> name: confirmpassword]
+2018-03-12 19:07:18 INFO  Registration:27 - ================= Finished verifyRegistrationCompleted Test ===================
+2018-03-12 19:18:03 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-12 19:18:04 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (ce867dc7-654f-4844-891c-e9cda35f603c)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-12 19:18:07 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (ce867dc7-654f-4844-891c-e9cda35f603c)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-12 19:18:15 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (ce867dc7-654f-4844-891c-e9cda35f603c)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-12 19:18:15 INFO  NavigateToSignUp:26 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-12 19:18:15 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-12 19:18:16 INFO  RegistrationPage:45 - inputted First Name text field with R and object is [[FirefoxDriver: firefox on XP (ce867dc7-654f-4844-891c-e9cda35f603c)] -> xpath: //input[@name='firstname']]
+2018-03-12 19:18:16 INFO  RegistrationPage:48 - inputted Last Name text field with T and object is [[FirefoxDriver: firefox on XP (ce867dc7-654f-4844-891c-e9cda35f603c)] -> name: lastname]
+2018-03-12 19:18:17 INFO  RegistrationPage:51 - inputted mobile number text field with 1234567891 and object is [[FirefoxDriver: firefox on XP (ce867dc7-654f-4844-891c-e9cda35f603c)] -> name: phone]
+2018-03-12 19:18:17 INFO  RegistrationPage:54 - inputted email text field with rt.12@gmail.com and object is [[FirefoxDriver: firefox on XP (ce867dc7-654f-4844-891c-e9cda35f603c)] -> name: email]
+2018-03-12 19:18:17 INFO  RegistrationPage:57 - inputted First Name text field with dummypwd and object is [[FirefoxDriver: firefox on XP (ce867dc7-654f-4844-891c-e9cda35f603c)] -> name: password]
+2018-03-12 19:18:17 INFO  RegistrationPage:60 - inputted First Name text field with dummypwd and object is [[FirefoxDriver: firefox on XP (ce867dc7-654f-4844-891c-e9cda35f603c)] -> name: confirmpassword]
+2018-03-12 19:18:17 INFO  Registration:27 - ================= Finished verifyRegistrationCompleted Test ===================
+2018-03-12 20:08:06 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-12 20:08:06 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (231ef20e-c4a1-415c-9fb7-a1e768a66303)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-12 20:08:09 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (231ef20e-c4a1-415c-9fb7-a1e768a66303)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-12 20:08:15 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (231ef20e-c4a1-415c-9fb7-a1e768a66303)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-12 20:08:15 INFO  NavigateToSignUp:26 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-12 20:08:15 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-12 20:08:16 INFO  RegistrationPage:45 - inputted First Name text field with R and object is [[FirefoxDriver: firefox on XP (231ef20e-c4a1-415c-9fb7-a1e768a66303)] -> xpath: //input[@name='firstname']]
+2018-03-12 20:08:16 INFO  RegistrationPage:48 - inputted Last Name text field with T and object is [[FirefoxDriver: firefox on XP (231ef20e-c4a1-415c-9fb7-a1e768a66303)] -> name: lastname]
+2018-03-12 20:08:16 INFO  RegistrationPage:51 - inputted mobile number text field with 1234567891 and object is [[FirefoxDriver: firefox on XP (231ef20e-c4a1-415c-9fb7-a1e768a66303)] -> name: phone]
+2018-03-12 20:08:17 INFO  RegistrationPage:54 - inputted email text field with rt.12@gmail.com and object is [[FirefoxDriver: firefox on XP (231ef20e-c4a1-415c-9fb7-a1e768a66303)] -> name: email]
+2018-03-12 20:08:17 INFO  RegistrationPage:57 - inputted First Name text field with dummypwd and object is [[FirefoxDriver: firefox on XP (231ef20e-c4a1-415c-9fb7-a1e768a66303)] -> name: password]
+2018-03-12 20:08:17 INFO  RegistrationPage:60 - inputted First Name text field with dummypwd and object is [[FirefoxDriver: firefox on XP (231ef20e-c4a1-415c-9fb7-a1e768a66303)] -> name: confirmpassword]
+2018-03-12 20:08:17 INFO  Registration:27 - ================= Finished verifyRegistrationCompleted Test ===================
+2018-03-12 20:15:07 INFO  NavigateToSignUp:20 - ================ Starting verifyNavigatedToSignUp Test ==================
+2018-03-12 20:15:08 INFO  DemoPage:28 - clicked on HomPage Front end link and object is: [[FirefoxDriver: firefox on XP (405d20de-a797-49e9-acd9-04e33905e0a3)] -> xpath: //a[@href='//www.phptravels.net']]
+2018-03-12 20:15:10 INFO  HomePage:38 - clicked on My Account and object is [[FirefoxDriver: firefox on XP (405d20de-a797-49e9-acd9-04e33905e0a3)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a]
+2018-03-12 20:15:17 INFO  HomePage:42 - clicked on Sign Up Link and object is [[FirefoxDriver: firefox on XP (405d20de-a797-49e9-acd9-04e33905e0a3)] -> xpath: //div[@class='col-md-6 col-sm-8 col-xs-5 go-left']/ul[@class='nav navbar-nav navbar-side navbar-right sidebar go-left']/li[@id='li_myaccount']/a/following-sibling::ul/li[2]/a]
+2018-03-12 20:15:17 INFO  NavigateToSignUp:26 - ================= Finished verifyNavigatedToSignUp Test ===================
+2018-03-12 20:15:17 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2018-03-12 20:15:17 INFO  RegistrationPage:45 - inputted First Name text field with R and object is [[FirefoxDriver: firefox on XP (405d20de-a797-49e9-acd9-04e33905e0a3)] -> xpath: //input[@name='firstname']]
+2018-03-12 20:15:17 INFO  RegistrationPage:48 - inputted Last Name text field with T and object is [[FirefoxDriver: firefox on XP (405d20de-a797-49e9-acd9-04e33905e0a3)] -> name: lastname]
+2018-03-12 20:15:18 INFO  RegistrationPage:51 - inputted mobile number text field with 1234567891 and object is [[FirefoxDriver: firefox on XP (405d20de-a797-49e9-acd9-04e33905e0a3)] -> name: phone]
+2018-03-12 20:15:18 INFO  RegistrationPage:54 - inputted email text field with rt.12@gmail.com and object is [[FirefoxDriver: firefox on XP (405d20de-a797-49e9-acd9-04e33905e0a3)] -> name: email]
+2018-03-12 20:15:18 INFO  RegistrationPage:57 - inputted First Name text field with dummypwd and object is [[FirefoxDriver: firefox on XP (405d20de-a797-49e9-acd9-04e33905e0a3)] -> name: password]
+2018-03-12 20:15:18 INFO  RegistrationPage:60 - inputted First Name text field with dummypwd and object is [[FirefoxDriver: firefox on XP (405d20de-a797-49e9-acd9-04e33905e0a3)] -> name: confirmpassword]
+2018-03-12 20:15:19 INFO  RegistrationPage:62 - clicked Sign Up button and object is [[FirefoxDriver: firefox on XP (405d20de-a797-49e9-acd9-04e33905e0a3)] -> xpath: //form[@id='headersignupform']/div[9]/button[@type='submit']]
+2018-03-12 20:15:19 INFO  Registration:27 - ================= Finished verifyRegistrationCompleted Test ===================
+2020-02-11 13:33:56 INFO  NavigateToSignUp:19 - ================ Starting verifyNavigatedToSignUp Test ==================
+2020-02-11 13:33:57 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (0f85d73de08b645f5c400628182a20dc)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 13:34:05 INFO  HomePage:44 - clicked on foundation and object is [[ChromeDriver: chrome on XP (0f85d73de08b645f5c400628182a20dc)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 13:34:05 INFO  NavigateToSignUp:23 - ================= Finished verifyNavigatedToSignUp Test ===================
+2020-02-11 13:34:05 INFO  Registration:24 - ================ Starting verifyRegistrationCompleted Test ==================
+2020-02-11 14:01:16 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:01:16 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (02a77515d6c44cb197e2a02317c7c824)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:01:22 INFO  HomePage:44 - clicked on foundation and object is [[ChromeDriver: chrome on XP (02a77515d6c44cb197e2a02317c7c824)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:04:42 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:04:42 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (34afe49de6d93468d7b8c53d693668e8)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:04:47 INFO  HomePage:44 - clicked on foundation and object is [[ChromeDriver: chrome on XP (34afe49de6d93468d7b8c53d693668e8)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:14:05 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:14:05 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (ca7f725c795694639b863b0b4306832f)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:14:10 INFO  HomePage:44 - clicked on foundation and object is [[ChromeDriver: chrome on XP (ca7f725c795694639b863b0b4306832f)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:18:10 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:18:11 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (6dc01c7e72d0fb46515441948a1c6cd3)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:18:16 INFO  HomePage:44 - clicked on foundation and object is [[ChromeDriver: chrome on XP (6dc01c7e72d0fb46515441948a1c6cd3)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:23:12 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:23:12 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (82306c4a181516ca2e43c49b45c1301c)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:23:18 INFO  HomePage:44 - clicked on foundation and object is [[ChromeDriver: chrome on XP (82306c4a181516ca2e43c49b45c1301c)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:23:18 INFO  PLPPage:62 - clicked on first product and object is [[ChromeDriver: chrome on XP (82306c4a181516ca2e43c49b45c1301c)] -> xpath: //img[@alt='Close this Privacy Policy']]
+2020-02-11 14:23:26 INFO  PLPPage:41 - clicked on first product and object is [[ChromeDriver: chrome on XP (82306c4a181516ca2e43c49b45c1301c)] -> xpath: //a[@title='Go to: Amazonian clay full coverage foundation SPF 15']]
+2020-02-11 14:23:26 INFO  PDPPage:37 - selected first product color and object is [[ChromeDriver: chrome on XP (82306c4a181516ca2e43c49b45c1301c)] -> xpath: //ul[@class='swatches color']//img[@alt='Color: 8B porcelain beige (very fair skin with pink undertones)']]
+2020-02-11 14:24:37 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:24:37 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (f91b888a24bcbcaf2e81551bae022639)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:24:41 INFO  HomePage:44 - clicked on foundation and object is [[ChromeDriver: chrome on XP (f91b888a24bcbcaf2e81551bae022639)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:24:41 INFO  PLPPage:62 - clicked on first product and object is [[ChromeDriver: chrome on XP (f91b888a24bcbcaf2e81551bae022639)] -> xpath: //img[@alt='Close this Privacy Policy']]
+2020-02-11 14:24:50 INFO  PLPPage:41 - clicked on first product and object is [[ChromeDriver: chrome on XP (f91b888a24bcbcaf2e81551bae022639)] -> xpath: //a[@title='Go to: Amazonian clay full coverage foundation SPF 15']]
+2020-02-11 14:24:50 INFO  PDPPage:44 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (f91b888a24bcbcaf2e81551bae022639)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:24:50 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (f91b888a24bcbcaf2e81551bae022639)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:34:32 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:34:32 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (672b8a23fc9f246684e82ba9fb5eb931)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:34:37 INFO  HomePage:44 - clicked on foundation and object is [[ChromeDriver: chrome on XP (672b8a23fc9f246684e82ba9fb5eb931)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:34:38 INFO  PLPPage:62 - clicked on first product and object is [[ChromeDriver: chrome on XP (672b8a23fc9f246684e82ba9fb5eb931)] -> xpath: //img[@alt='Close this Privacy Policy']]
+2020-02-11 14:34:46 INFO  PLPPage:41 - clicked on first product and object is [[ChromeDriver: chrome on XP (672b8a23fc9f246684e82ba9fb5eb931)] -> xpath: //a[@title='Go to: Amazonian clay full coverage foundation SPF 15']]
+2020-02-11 14:34:46 INFO  PDPPage:48 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (672b8a23fc9f246684e82ba9fb5eb931)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:34:51 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (672b8a23fc9f246684e82ba9fb5eb931)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:34:55 INFO  HomePage:44 - clicked on foundation and object is [[ChromeDriver: chrome on XP (672b8a23fc9f246684e82ba9fb5eb931)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:36:01 INFO  PLPPage:48 - clicked on first product and object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Go to: face tape™ foundation']/img[@alt='face tape&trade; foundation'][1]'
+2020-02-11 14:36:01 INFO  PDPPage:48 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (672b8a23fc9f246684e82ba9fb5eb931)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:36:01 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (672b8a23fc9f246684e82ba9fb5eb931)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:38:33 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:38:33 INFO  HomePage:37 - moved to makeup and object is [[ChromeDriver: chrome on XP (f82adc8cf8cf3f6ba342ea294da5e9c2)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:42:25 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:42:25 INFO  HomePage:39 - moved to makeup and object is [[ChromeDriver: chrome on XP (409eb51589cc722669c2f46599ea0979)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:42:30 INFO  HomePage:46 - clicked on foundation and object is [[ChromeDriver: chrome on XP (409eb51589cc722669c2f46599ea0979)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:42:31 INFO  PLPPage:62 - clicked on first product and object is [[ChromeDriver: chrome on XP (409eb51589cc722669c2f46599ea0979)] -> xpath: //img[@alt='Close this Privacy Policy']]
+2020-02-11 14:42:43 INFO  PLPPage:41 - clicked on first product and object is [[ChromeDriver: chrome on XP (409eb51589cc722669c2f46599ea0979)] -> xpath: //a[@title='Go to: Amazonian clay full coverage foundation SPF 15']]
+2020-02-11 14:42:43 INFO  PDPPage:48 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (409eb51589cc722669c2f46599ea0979)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:42:44 INFO  HomePage:39 - moved to makeup and object is [[ChromeDriver: chrome on XP (409eb51589cc722669c2f46599ea0979)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:45:08 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:45:08 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (d83592259ddbb47b77c111aa18041c8d)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:45:13 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (d83592259ddbb47b77c111aa18041c8d)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:45:13 INFO  PLPPage:62 - clicked on first product and object is [[ChromeDriver: chrome on XP (d83592259ddbb47b77c111aa18041c8d)] -> xpath: //img[@alt='Close this Privacy Policy']]
+2020-02-11 14:45:23 INFO  PLPPage:41 - clicked on first product and object is [[ChromeDriver: chrome on XP (d83592259ddbb47b77c111aa18041c8d)] -> xpath: //a[@title='Go to: Amazonian clay full coverage foundation SPF 15']]
+2020-02-11 14:45:23 INFO  PDPPage:48 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (d83592259ddbb47b77c111aa18041c8d)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:45:24 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (d83592259ddbb47b77c111aa18041c8d)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:46:51 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:46:52 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (7a4c8dc4f52455cf97a8b3860a7ea963)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:46:57 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (7a4c8dc4f52455cf97a8b3860a7ea963)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:46:57 INFO  PLPPage:62 - clicked on first product and object is [[ChromeDriver: chrome on XP (7a4c8dc4f52455cf97a8b3860a7ea963)] -> xpath: //img[@alt='Close this Privacy Policy']]
+2020-02-11 14:47:03 INFO  PLPPage:41 - clicked on first product and object is [[ChromeDriver: chrome on XP (7a4c8dc4f52455cf97a8b3860a7ea963)] -> xpath: //a[@title='Go to: Amazonian clay full coverage foundation SPF 15']]
+2020-02-11 14:47:03 INFO  PDPPage:48 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (7a4c8dc4f52455cf97a8b3860a7ea963)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:47:14 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (7a4c8dc4f52455cf97a8b3860a7ea963)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:47:19 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (7a4c8dc4f52455cf97a8b3860a7ea963)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:48:25 INFO  PLPPage:48 - clicked on first product and object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Go to: face tape™ foundation']/img[@alt='face tape&trade; foundation'][1]'
+2020-02-11 14:48:25 INFO  PDPPage:48 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (7a4c8dc4f52455cf97a8b3860a7ea963)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:48:25 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (7a4c8dc4f52455cf97a8b3860a7ea963)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:49:12 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:49:12 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (b61d754ae3f395bcab6ac8078d4d63df)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:49:18 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (b61d754ae3f395bcab6ac8078d4d63df)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:49:18 INFO  PLPPage:62 - clicked on first product and object is [[ChromeDriver: chrome on XP (b61d754ae3f395bcab6ac8078d4d63df)] -> xpath: //img[@alt='Close this Privacy Policy']]
+2020-02-11 14:49:25 INFO  PLPPage:41 - clicked on first product and object is [[ChromeDriver: chrome on XP (b61d754ae3f395bcab6ac8078d4d63df)] -> xpath: //a[@title='Go to: Amazonian clay full coverage foundation SPF 15']]
+2020-02-11 14:49:30 INFO  PDPPage:49 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (b61d754ae3f395bcab6ac8078d4d63df)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:49:36 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (b61d754ae3f395bcab6ac8078d4d63df)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:49:39 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (b61d754ae3f395bcab6ac8078d4d63df)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:50:43 INFO  PLPPage:48 - clicked on first product and object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Go to: face tape™ foundation']/img[@alt='face tape&trade; foundation'][1]'
+2020-02-11 14:50:54 INFO  PDPPage:49 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (b61d754ae3f395bcab6ac8078d4d63df)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:50:59 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (b61d754ae3f395bcab6ac8078d4d63df)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:52:12 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:52:12 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (a686098368238282129a98443dd14712)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:52:17 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (a686098368238282129a98443dd14712)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:52:18 INFO  PLPPage:62 - clicked on first product and object is [[ChromeDriver: chrome on XP (a686098368238282129a98443dd14712)] -> xpath: //img[@alt='Close this Privacy Policy']]
+2020-02-11 14:52:27 INFO  PLPPage:41 - clicked on first product and object is [[ChromeDriver: chrome on XP (a686098368238282129a98443dd14712)] -> xpath: //a[@title='Go to: Amazonian clay full coverage foundation SPF 15']]
+2020-02-11 14:52:32 INFO  PDPPage:51 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (a686098368238282129a98443dd14712)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:52:38 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (a686098368238282129a98443dd14712)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:52:43 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (a686098368238282129a98443dd14712)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:53:49 INFO  PLPPage:48 - clicked on first product and object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Go to: face tape™ foundation']/img[@alt='face tape&trade; foundation'][1]'
+2020-02-11 14:53:54 INFO  PDPPage:51 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (a686098368238282129a98443dd14712)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:53:54 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (a686098368238282129a98443dd14712)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:57:29 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 14:57:29 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (2a33a1cbf322273fcdc137aea4701369)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:57:34 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (2a33a1cbf322273fcdc137aea4701369)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:57:35 INFO  PLPPage:62 - clicked on first product and object is [[ChromeDriver: chrome on XP (2a33a1cbf322273fcdc137aea4701369)] -> xpath: //img[@alt='Close this Privacy Policy']]
+2020-02-11 14:57:42 INFO  PLPPage:41 - clicked on first product and object is [[ChromeDriver: chrome on XP (2a33a1cbf322273fcdc137aea4701369)] -> xpath: //a[@title='Go to: Amazonian clay full coverage foundation SPF 15']]
+2020-02-11 14:57:48 INFO  PDPPage:51 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (2a33a1cbf322273fcdc137aea4701369)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:57:58 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (2a33a1cbf322273fcdc137aea4701369)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 14:58:02 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (2a33a1cbf322273fcdc137aea4701369)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 14:59:07 INFO  PLPPage:48 - clicked on first product and object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Go to: face tape™ foundation']/img[@alt='face tape&trade; foundation'][1]'
+2020-02-11 14:59:12 INFO  PDPPage:51 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (2a33a1cbf322273fcdc137aea4701369)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 14:59:12 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (2a33a1cbf322273fcdc137aea4701369)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 15:02:14 INFO  RemoveProductFromCart:24 - ================ Starting removeProduct Test ==================
+2020-02-11 15:02:14 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 15:02:20 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 15:02:20 INFO  PLPPage:62 - clicked on first product and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //img[@alt='Close this Privacy Policy']]
+2020-02-11 15:02:26 INFO  PLPPage:41 - clicked on first product and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //a[@title='Go to: Amazonian clay full coverage foundation SPF 15']]
+2020-02-11 15:02:31 INFO  PDPPage:51 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 15:02:37 INFO  HomePage:43 - moved to makeup and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //li[@class='nav__level1--makeup nav__level1']//a[contains(text(),'makeup')]]
+2020-02-11 15:02:41 INFO  HomePage:50 - clicked on foundation and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //li[@class='nav__level2--face nav__level2']//ul[@class='level-3']/li[contains(@class,'makeup-face-foundation')]/a[contains(text(),'foundation')]]
+2020-02-11 15:03:48 INFO  PLPPage:48 - clicked on first product and object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Go to: face tape™ foundation']/img[@alt='face tape&trade; foundation'][1]'
+2020-02-11 15:03:54 INFO  PDPPage:51 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 15:05:05 INFO  PLPPage:55 - clicked on first product and object is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Go to: babassu foundcealer™ skincare foundation Broad Spectrum SPF 20']/img[@alt='babassu foundcealer&trade; skincare foundation Broad Spectrum SPF 20'][1]'
+2020-02-11 15:05:10 INFO  PDPPage:51 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //button[@id='add-to-cart']]
+2020-02-11 15:05:18 INFO  PDPPage:58 - clicked on Add to Bag and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //span[@class='minicart-quantity']]
+2020-02-11 15:05:24 INFO  CartPage:32 - clicked on first product and object is [[ChromeDriver: chrome on XP (4a9bb27fbd649ccdd8e38b7ecb669d0e)] -> xpath: //table[@id='cart-table']//tbody/tr[1]/td[@class='remove']/button]
+2020-02-11 15:05:24 INFO  RemoveProductFromCart:57 - ================ Ending removeProduct Test ==================
